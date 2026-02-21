@@ -3,7 +3,7 @@ title: "The Psychology of Chess: Mastering Your Mind"
 slug: "psychology-of-chess"
 date: 2025-11-24
 tags: ["psychology", "mindset", "improvement"]
-image: "https://chesscompiler.space/learn/images/chess-psychology.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-psychology.png"
 layout: post
 ---
 

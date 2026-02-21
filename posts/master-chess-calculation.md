@@ -3,7 +3,7 @@ title: "🧠 Master Chess Calculation: Depth and Accuracy"
 slug: "master-chess-calculation"
 date: 2026-02-21
 tags: ["calculation", "tactics", "training"]
-image: "https://chesscompiler.space/learn/images/chess-calculation.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-calculation.png"
 layout: post
 ---
 

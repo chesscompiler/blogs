@@ -3,7 +3,7 @@ title: "🐴 Minor Piece Endgame Mastery: Knights vs. Bishops"
 slug: "minor-piece-endgame-mastery"
 date: 2026-02-21
 tags: ["endgame", "strategy", "technique"]
-image: "https://chesscompiler.space/learn/images/minor-piece-endgame.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/minor-piece-endgame.png"
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: "💎 Convert Winning Positions Cleanly"
 slug: "convert-winning-positions-cleanly"
 date: 2026-02-21
 tags: ["technique", "endgame", "middlegame"]
-image: "https://chesscompiler.space/learn/images/winning-positions.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/winning-positions.png"
 layout: post
 ---
 

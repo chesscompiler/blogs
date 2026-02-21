@@ -3,7 +3,7 @@ title: "🏰 Rook Endgames: The Lucena and Philidor"
 slug: "rook-endgames-that-win-and-draw"
 date: 2026-02-21
 tags: ["endgame", "rook", "technique"]
-image: "https://chesscompiler.space/learn/images/rook-endgames.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/rook-endgames.png"
 layout: post
 ---
 

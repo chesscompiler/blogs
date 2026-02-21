@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Chess Openings: Strategies & Traps"
 slug: "ultimate-guide-chess-openings"
 date: 2025-08-08
 tags: ["openings", "strategy", "guides"]
-image: "https://chesscompiler.space/learn/images/chess-openings.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-openings.png"
 layout: post
 ---
 

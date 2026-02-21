@@ -3,7 +3,7 @@ title: "🛑 Prophylaxis: Thinking One Move Ahead"
 slug: "prophylaxis-thinking-one-move-ahead"
 date: 2026-02-21
 tags: ["strategy", "thinking-process", "improvement"]
-image: "https://chesscompiler.space/learn/images/prophylaxis.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/prophylaxis.png"
 layout: post
 ---
 

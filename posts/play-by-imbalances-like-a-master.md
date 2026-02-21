@@ -3,7 +3,7 @@ title: "⚖️ Play by Imbalances Like a Master"
 slug: "play-by-imbalances-like-a-master"
 date: 2026-02-21
 tags: ["strategy", "planning", "middlegame"]
-image: "https://chesscompiler.space/learn/images/chess-middlegame.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-middlegame.png"
 layout: post
 ---
 

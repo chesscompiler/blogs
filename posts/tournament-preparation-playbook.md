@@ -3,7 +3,7 @@ title: "🏆 The Tournament Preparation Playbook"
 slug: "tournament-preparation-playbook"
 date: 2026-02-21
 tags: ["tournament", "preparation", "advice"]
-image: "https://chesscompiler.space/learn/images/how-to-play-chess.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/how-to-play-chess.png"
 layout: post
 ---
 

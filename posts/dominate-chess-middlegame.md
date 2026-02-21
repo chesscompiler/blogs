@@ -3,7 +3,7 @@ title: "Dominate the Middlegame: Tactics, Planning & Visualization"
 slug: "dominate-chess-middlegame"
 date: 2025-08-10
 tags: ["middlegame", "tactics", "strategy"]
-image: "https://chesscompiler.space/learn/images/chess-middlegame.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-middlegame.png"
 layout: post
 ---
 

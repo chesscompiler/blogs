@@ -3,7 +3,7 @@ title: "🛡️ Defensive Technique: How to Hold Under Pressure"
 slug: "defensive-technique-under-pressure"
 date: 2026-02-21
 tags: ["defense", "psychology", "endgame"]
-image: "https://chesscompiler.space/learn/images/defensive-technique.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/defensive-technique.png"
 layout: post
 ---
 

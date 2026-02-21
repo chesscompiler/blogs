@@ -3,7 +3,7 @@ title: "🔎 Analyze Your Games Like a Professional Coach"
 slug: "analyze-your-games-like-a-coach"
 date: 2026-02-21
 tags: ["analysis", "improvement", "coaching"]
-image: "https://chesscompiler.space/learn/images/chess-middlegame.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-middlegame.png"
 layout: post
 ---
 

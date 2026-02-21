@@ -3,7 +3,7 @@ title: "🧠 Psychology for Competitive Chess: The Inner Battle"
 slug: "psychology-for-competitive-chess"
 date: 2026-02-21
 tags: ["psychology", "tournament", "mindset"]
-image: "https://chesscompiler.space/learn/images/chess-psychology.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-psychology.png"
 layout: post
 ---
 

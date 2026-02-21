@@ -3,7 +3,7 @@ title: "⚔️ Tactical Patterns Every Club Player Must Know"
 slug: "tactical-patterns-every-club-player-must-know"
 date: 2026-02-21
 tags: ["tactics", "patterns", "beginners"]
-image: "https://chesscompiler.space/learn/images/tactical-patterns.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/tactical-patterns.png"
 layout: post
 ---
 
