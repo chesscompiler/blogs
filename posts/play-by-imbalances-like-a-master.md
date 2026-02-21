@@ -2,27 +2,57 @@
 title: "⚖️ Play by Imbalances Like a Master"
 slug: "play-by-imbalances-like-a-master"
 date: 2026-02-21
-tags: ["strategy", "imbalances", "middlegame"]
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chess_blt45.svg"
+tags: ["strategy", "planning", "middlegame"]
+image: "https://chesscompiler.space/learn/images/chess-middlegame.png"
 layout: post
 ---
-Great middlegame decisions come from comparing imbalances, not from chasing "best-looking" moves.
 
-## Key Imbalances to Evaluate
-- Better minor piece (bishop vs knight)
-- Pawn structure (weak pawns, passed pawns)
-- Space advantage
-- Initiative/king safety
-- Open files and diagonals
+Many players ask: "What should I do now?" Jeremy Silman popularized a revolutionary way to answer this: **Look for the Imbalances.** An imbalance isn't necessarily an advantage; it's simply a difference between your position and your opponent's.
 
-<chess-board fen="2r2rk1/pp3ppp/2n1bn2/3p4/3P4/2N1PN2/PP3PPP/2R2RK1 w - - 0 1" arrows="c3-b5,c1-c2,f1-d1"></chess-board>
+## 🔍 The 7 Main Imbalances
 
-White may choose pressure on dark squares, file doubling, or piece rerouting.
+To find the right plan, scan the board for these seven factors:
 
-## Decision Template
-1. Identify your **best** and **worst** piece.
-2. Improve the worst piece unless tactics demand action.
-3. Trade only if trade favors your imbalance.
+1. **Superior Minor Pieces:** Do you have a "good" knight vs. their "bad" bishop?
+2. **Pawn Structure:** Do they have doubled pawns or an isolated pawn?
+3. **Material:** Are you up a pawn? Or perhaps you've sacrificed an exchange for an attack?
+4. **Space:** Do you have more room to maneuver your pieces?
+5. **Development:** Are you ahead in getting your pieces out?
+6. **Files and Squares:** Do you control the only open file on the board?
+7. **King Safety:** Is their king exposed?
 
-## Common Mistake
-Players with space advantage exchange too many pieces and kill their own attack potential. Keep pieces when your side has more room and attacking chances.
+---
+
+## 🏗️ Building a Plan Around an Imbalance
+
+Don't try to "do everything." Pick the strongest imbalance in your favor and play for it.
+
+### Example: The Space Advantage
+If you have more space, **avoid trades.** Trading pieces helps the person with *less* space because it gives their remaining pieces room to breathe.
+
+<chess-board fen="r1bq1rk1/pp2ppbp/2np1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 4 6" arrows="d4-d5"></chess-board>
+*White has more space in the center. Pushing d5 further restricts Black's knights.*
+
+---
+
+## 🔄 Material vs. Initiative
+
+This is the most exciting imbalance. Sometimes, being down a pawn is fine if your pieces are much more active.
+
+<chess-board fen="r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4" arrows="f3-g5"></chess-board>
+*The Fried Liver Attack: White sacrifices development/material for a devastating attack on f7.*
+
+---
+
+## 📝 The Imbalance Exercise
+
+In your next game, at move 15, stop and list the imbalances.
+- "I have more space on the queenside."
+- "He has a better bishop."
+- "My king is safer."
+
+**Plan:** "I will attack on the queenside to use my space advantage and keep pieces on the board to make his king safety a problem."
+
+> 💡 **Master Tip:** Strategy is just the art of trading one imbalance for a better one.
+
+**Stop guessing and start assessing. Play by imbalances!**
