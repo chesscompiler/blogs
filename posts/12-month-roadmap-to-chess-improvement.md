@@ -3,7 +3,7 @@ title: "🗺️ A 12-Month Roadmap to Serious Chess Improvement"
 slug: "12-month-roadmap-to-chess-improvement"
 date: 2026-02-21
 tags: ["roadmap", "improvement", "training"]
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chess_kdt45.svg"
+image: "https://chesscompiler.space/learn/images/roadmap-improvement.png"
 layout: post
 ---
 
