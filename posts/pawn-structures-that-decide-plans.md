@@ -3,7 +3,7 @@ title: "🧱 Pawn Structures That Decide Plans"
 slug: "pawn-structures-that-decide-plans"
 date: 2026-02-21
 tags: ["strategy", "middlegame", "pawns"]
-image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Chess_plt45.svg"
+image: "https://chesscompiler.space/learn/images/pawn-structures.png"
 layout: post
 ---
 

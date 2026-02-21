@@ -3,7 +3,7 @@ title: "🏹 Attacking the Castled King: Lethal Patterns"
 slug: "attacking-the-castled-king"
 date: 2026-02-21
 tags: ["attack", "tactics", "middlegame"]
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chess_blt45.svg"
+image: "https://chesscompiler.space/learn/images/attacking-king.png"
 layout: post
 ---
 
