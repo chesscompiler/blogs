@@ -3,7 +3,7 @@ title: "🏗️ Build an Opening Repertoire That Fits Your Style"
 slug: "build-an-opening-repertoire-that-fits-you"
 date: 2026-02-21
 tags: ["openings", "repertoire", "strategy"]
-image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess-openings.png"
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess_pieces_icons.png"
 layout: post
 ---
 
