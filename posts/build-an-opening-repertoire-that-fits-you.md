@@ -1,9 +1,15 @@
 ---
 title: "Build an Opening Repertoire That Fits You: The Comprehensive Blueprint"
 slug: "build-an-opening-repertoire-that-fits-you"
+<<<<<<< HEAD
 date: 2025-01-15
 tags: ["openings", "repertoire", "strategy", "improvement"]
 image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/opening-repertoire-new.png"
+=======
+date: 2026-02-21
+tags: ["openings", "repertoire", "strategy"]
+image: "https://raw.githubusercontent.com/chesscompiler/blogs/main/images/chess_pieces_icons.png"
+>>>>>>> 8e621debccb6421c3b35f7036c42a117c4a25de7
 layout: post
 ---
 
